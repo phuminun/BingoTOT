@@ -1,0 +1,12 @@
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\bin\WebApplication1.xml
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\WorkSpace\Bingo\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
